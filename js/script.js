@@ -68,7 +68,7 @@ var swiper = new Swiper(".mySwiper", {
 
   ScrollReveal({ 
     reset: true,
-    distance: '10px',
+    distance: '40px',
     duration: 2000,
     delay: 200
 });

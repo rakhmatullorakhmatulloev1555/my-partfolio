@@ -763,7 +763,7 @@ span {
 
     .home-content {
         padding-top: 5rem;
-        margin-bottom: 7rem;
+        margin-bottom: 5rem;
     }
 
     .home-content h3 {
@@ -888,7 +888,7 @@ span {
     }
 
     .home-content {
-        padding-top: 0;
+        padding-top: 1rem;
     }
 
     .home .profession-box .profession:nth-child(1) {
